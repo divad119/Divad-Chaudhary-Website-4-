@@ -1,0 +1,12 @@
+---
+title: "Assignment 1"
+description: "Create a quarto website and make a blog post"
+author: 
+  - name: Divad Chaudhary
+  - affiliation: Department of Economics, University of Winnipeg
+categories: [Quarto, R, Data Analysis]
+citation: 
+  url: 
+format: html
+---
+
