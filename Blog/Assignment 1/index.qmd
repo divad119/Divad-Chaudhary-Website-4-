@@ -6,7 +6,9 @@ author:
   - affiliation: Department of Economics, University of Winnipeg
 categories: [Quarto, R, Data Analysis]
 citation: 
-  url: 
+  url: https://github.com/divad119/Divad-Chaudhary-Website-4-/tree/main/Blog/Assignment%201
+draft: false
 format: html
 ---
 
+click [here](econ_2204_assignment_1.pdf)
