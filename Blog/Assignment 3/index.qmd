@@ -1,0 +1,14 @@
+---
+title: "Assignment 2"
+description: "Assignment 2 uploaded to website"
+author: 
+  - name: Divad Chaudhary
+  - affiliation: Department of Economics, University of Winnipeg
+categories: [Quarto, R, Data Analysis]
+citation: 
+  url: https://github.com/divad119/Divad-Chaudhary-Website-4-/tree/main/Blog/Assignment%201
+draft: false
+format: html
+---
+
+click [here](assignment_3.pdf)
