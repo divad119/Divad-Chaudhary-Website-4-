@@ -1,6 +1,6 @@
 ---
 title: "Assignment 2"
-description: "Pdf document uploaded to website"
+description: "Assignment 2 uploaded to website"
 author: 
   - name: Divad Chaudhary
   - affiliation: Department of Economics, University of Winnipeg
